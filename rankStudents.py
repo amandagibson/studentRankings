@@ -1,7 +1,3 @@
-# Read the names and grades of at least 3 students.
-# Rank the top 3 students with highest marks.
-# Give cash rewards. $500 for first, $300 for second and $100 for third rank. These amounts cannot be modified.
-# Appreciate students who scored 950 and above.
 import operator
 
 def readStudentDetails():
